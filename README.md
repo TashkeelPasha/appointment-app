@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/e00c19ac-409c-44b0-9cf0-294172b371dc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/doc-app.git
+   git clone https://github.com/TashkeelPasha/appointment-app.git
    ```
 
 
